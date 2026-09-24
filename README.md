@@ -1,1 +1,1 @@
-# mavhine-learning
+# machine-learning
